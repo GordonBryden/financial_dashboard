@@ -8,7 +8,7 @@ library(tidyr)
 library(ggplot2)
 library(zoo)
 
-covid_quant <- read_csv("covid_quant.csv")
+covid_quant <- read_csv("quant.csv")
 
 #convert the quantmod download into something standardised
 process_quant_data <- function(quant_data) {
