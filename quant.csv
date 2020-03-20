@@ -1,0 +1,24 @@
+company,yahoo_code,grouping
+FTSE100,^FTSE,major
+FTSE250,^FTMC,major
+Brent_crude,BZ=F,major
+pound_to_dollar,GBPUSD=X,major
+pound_to_euro,GBPEUR=X,major
+easyjet,EZJ.L,
+bae systems,BA.L,
+BARR,BAG.L,
+RBS,RBS.L,
+Diagio,DGE.L,
+Centrica,CNA.L,
+SSE,SSE.L,
+John_Wood_Group,WG.L,
+Tesco,TSCO.L,
+Standard Life Aberdden,SLA.L,
+Celtic,CCP.L,
+Wetherspoons,JDW.L,
+Stagecoach,SGC.L,
+First Group,FGP.L,
+Lloyds Banking,LLOY.L,
+Weir Group,WEIR.L ,
+Aggreko,AGK.L ,
+John Menzies,MNZS.L,
